@@ -10,20 +10,13 @@ export default function Nav() {
           className={styles.card}
           rel="noopener noreferrer"
         >
-          <h2>
-            TopMast
-          </h2>
+          <Image
+            src='/logo.svg'
+           alt='logo'
+          height={30}
+          width={30}
+          />
         </Link>
-        <Link
-          href="/about"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            About 
-          </h2>
-        </Link>
-
         <a
           href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className={styles.card}

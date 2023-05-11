@@ -1,0 +1,54 @@
+.main {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  min-height:100vh;
+}
+.main > * {
+  flex: 1;
+  margin:10px;
+}
+.header {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-evenly;
+  align-self:stretch;
+  align-items:center;
+  color:rgb(27, 91, 255);
+  padding-top:20px;
+}
+.header > h2 {
+  font-size:4rem;
+}
+.revolutionize {
+  background-color:white;
+  width:100vw;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color: rgb(0, 0, 185);
+  padding:30px;
+  margin:10px;
+  border-radius:20px;
+}
+.featureContainer {
+  display: flex;
+  border-radius:25px;
+  gap:5px;
+}
+.feature {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  flex:1;
+  border-radius:15px;
+  padding:10px;
+  background-color:rgb(52, 67, 92);
+  color:rgb(250, 250, 250);
+}
+.feature > h3 {
+  font-size: 1.5rem;
+}
+.feature > p {
+  color:rgb(62, 128, 240);
+}

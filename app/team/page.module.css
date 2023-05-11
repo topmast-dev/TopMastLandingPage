@@ -34,7 +34,8 @@
   font-size:.8rem;
 }
 .socials > * {
-  padding: 10px;
+  margin-top:10px;
+  margin-bottom:10px;
 }
 .links {
   display:flex;
