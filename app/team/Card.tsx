@@ -30,10 +30,10 @@ export default function Card({
         <h3>{name}</h3>
         <p>{email}</p>
         <div className={styles.links}>
-          <a href={github} target="_blank">
+          <a href={github} target={github !== '' ? "_blank" : ''}>
             <GitHubIcon />
           </a>
-          <a href={linkedin} target="_blank">
+          <a href={linkedin} target={linkedin !== '' ? "_blank" : ''}>
             <LinkedInIcon />
           </a>{' '}
         </div>

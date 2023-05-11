@@ -22,32 +22,32 @@ export default function Team() {
           image="/beejorn.jpeg"
         />
         <Card
-          name="Bjorn Carlsson"
-          email="bacarlsson@gmail.com"
-          github="https://github.com/bacarlsson86"
-          linkedin=""
-          image="/beejorn.jpeg"
+          name="Jason Brown"
+          email="superbunker@gmail.com"
+          github="https://github.com/superbunker"
+          linkedin="https://www.linkedin.com/in/jasonbr/"
+          image="/jason.png"
         />
         <Card
           name="Ryan Gause"
           email="ryan.g.gause.3@gmail.com"
           github="https://github.com/Gauserr"
           linkedin="https://www.linkedin.com/in/ryangause"
-          image="/ryan.png"
+          image="/ryang.png"
         />
         <Card
-          name="Bjorn Carlsson"
-          email="bacarlsson@gmail.com"
-          github="https://github.com/bacarlsson86"
-          linkedin=""
-          image="/beejorn.jpeg"
+          name="Michael Ruiz"
+          email="maruiz.sc1@gmail.com"
+          github="https://github.com/Ruizmichael"
+          linkedin="https://www.linkedin.com/in/michael-a-ruiz/"
+          image="/michael.png"
         />
         <Card
-          name="Bjorn Carlsson"
-          email="bacarlsson@gmail.com"
-          github="https://github.com/bacarlsson86"
-          linkedin=""
-          image="/beejorn.jpeg"
+          name="Chris Kulaczkowski"
+          email="krzysztof.kulaczkowski@hotmail.com"
+          github="https://github.com/Chris-isCoding"
+          linkedin="https://www.linkedin.com/in/chris-iscoding/"
+          image="/chris.png"
         />
       </div>
     </>
