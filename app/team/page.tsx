@@ -44,10 +44,10 @@ export default function Team() {
         />
         <Card
           name="Chris Kulaczkowski"
-          email="krzysztof.kulaczkowski@hotmail.com"
+          email="chris@kulaczkowski.com"
           github="https://github.com/Chris-isCoding"
           linkedin="https://www.linkedin.com/in/chris-iscoding/"
-          image="/chris.png"
+          image="/chris-isCoding.jpeg"
         />
       </div>
     </>
