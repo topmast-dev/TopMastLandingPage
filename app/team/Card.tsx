@@ -22,8 +22,8 @@ export default function Card({
       <Image
         src={image}
         className={styles.image}
-        width={200}
         height={200}
+        width={200}
         alt={name}
       />
       <div className={styles.socials}>
