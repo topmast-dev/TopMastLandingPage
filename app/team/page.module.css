@@ -1,0 +1,40 @@
+.header {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background: white;
+  color: rgb(0, 0, 185);
+  width: 100%;
+  text-align:center;
+  min-height: 6rem;
+}
+.allCards {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: space-around;
+  align-items: center;
+  gap:10px;
+}
+.card {
+  display: flex;
+  background:white;
+  color:rgb(0, 0, 185);
+  border-radius:25px;
+}
+.image {
+  border-radius:25px 0px 0px 25px;
+}
+.socials {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items:center;
+  margin-left:10px;
+}
+.socials > * {
+  padding: 10px;
+}
+.links {
+  display:flex;
+}
