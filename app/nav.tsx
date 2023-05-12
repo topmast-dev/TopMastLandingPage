@@ -18,7 +18,7 @@ export default function Nav() {
           />
         </Link>
         <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://github.com/oslabs-beta/Moby-Metrics/blob/dev/README.md"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
